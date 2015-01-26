@@ -1,0 +1,21 @@
+[Server]
+Name=OPC.SimaticNET
+[Groups]
+GroupCount=1
+Group1=~Group_1
+[~Group_1]
+ItemCount=8
+RevisedUpdateRate=500
+LCID=1033
+PercentDeadband=0
+MemoryGroupStatus=-1
+ColumnWidth=3825	4455	961	1980	1470	961	2355	2400	961	961	961	961
+ColumnHide=0	0	0	0	0	0	0	0	0	0	0	0
+Item1=SR:[ISO_FETCH]&statepath()	True	8	8	8	250
+Item2=SR:[ISO_FETCH]DB1,word0	True	8	18	18	250
+Item3=SR:[ISO_WRITE]&statepath()	True	8	8	8	250
+Item4=SR:[ISO_WRITE]DB2,word0	True	8	18	18	250
+Item5=SR:[TCP_FETCH]&statepath()	True	8	8	8	250
+Item6=SR:[TCP_FETCH]DB1,word1	True	8	18	18	250
+Item7=SR:[TCP_WRITE2]&statepath()	True	8	8	8	250
+Item8=SR:[TCP_WRITE2]DB2,word1	True	8	18	18	250

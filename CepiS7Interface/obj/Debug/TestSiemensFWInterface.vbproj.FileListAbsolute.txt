@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\TestSiemensFWInterface.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\TestSiemensFWInterface.TestSiemensFWInterface.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\TestSiemensFWInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Debug\TestSiemensFWInterface.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Debug\TestSiemensFWInterface.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Debug\TestSiemensFWInterface.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\TestSiemensFWInterface.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\TestSiemensFWInterface.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Debug\TestSiemensFWInterface.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Debug\S7Interface.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Debug\S7Interface.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Debug\S7Interface.xml

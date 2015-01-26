@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "S7Interface", "S7Interface\S7Interface.vbproj", "{018A32A5-1D3B-4B89-B479-ED3513ED89E3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupS7Interface", "SetupS7Interface\SetupS7Interface.vdproj", "{CB2330D5-EA48-4C8F-ACFF-DD8C50575BF4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CepiS7Interface", "CepiS7Interface\CepiS7Interface.vbproj", "{C1565DA3-FF38-4618-AC87-DE39B81541CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018A32A5-1D3B-4B89-B479-ED3513ED89E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018A32A5-1D3B-4B89-B479-ED3513ED89E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018A32A5-1D3B-4B89-B479-ED3513ED89E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018A32A5-1D3B-4B89-B479-ED3513ED89E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2330D5-EA48-4C8F-ACFF-DD8C50575BF4}.Debug|Any CPU.ActiveCfg = Debug
+		{CB2330D5-EA48-4C8F-ACFF-DD8C50575BF4}.Debug|Any CPU.Build.0 = Debug
+		{CB2330D5-EA48-4C8F-ACFF-DD8C50575BF4}.Release|Any CPU.ActiveCfg = Release
+		{CB2330D5-EA48-4C8F-ACFF-DD8C50575BF4}.Release|Any CPU.Build.0 = Release
+		{C1565DA3-FF38-4618-AC87-DE39B81541CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1565DA3-FF38-4618-AC87-DE39B81541CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1565DA3-FF38-4618-AC87-DE39B81541CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1565DA3-FF38-4618-AC87-DE39B81541CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Release\TestSiemensFWInterface.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Release\TestSiemensFWInterface.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Release\TestSiemensFWInterface.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Release\S7Interface.dll
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Release\S7Interface.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\bin\Release\S7Interface.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\TestSiemensFWInterface.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\TestSiemensFWInterface.TestSiemensFWInterface.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\TestSiemensFWInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\TestSiemensFWInterface.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\TestSiemensFWInterface.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\SiemensFWInterface\TestSiemensFWInterface\obj\Release\TestSiemensFWInterface.pdb
